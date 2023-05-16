@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1684156557376" clover="3.2.0">
-  <project timestamp="1684156557377" name="All files">
+<coverage generated="1684245473843" clover="3.2.0">
+  <project timestamp="1684245473844" name="All files">
     <metrics statements="267" coveredstatements="246" conditionals="22" coveredconditionals="15" methods="7" coveredmethods="7" elements="296" coveredelements="268" complexity="0" loc="267" ncloc="267" packages="6" files="8" classes="8"/>
-    <package name="testing">
+    <package name="ci-cd">
       <metrics statements="28" coveredstatements="22" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="app.js" path="D:\BINAR\day-to-day\chapter-6\1_testing\latihan_1\testing\app.js">
+      <file name="app.js" path="C:\Users\Rizky MF\OneDrive\Desktop\CI-CD\ci-cd\app.js">
         <metrics statements="28" coveredstatements="22" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -36,9 +36,9 @@
         <line num="28" count="1" type="stmt"/>
       </file>
     </package>
-    <package name="testing.controllers">
+    <package name="ci-cd.controllers">
       <metrics statements="93" coveredstatements="81" conditionals="9" coveredconditionals="5" methods="3" coveredmethods="3"/>
-      <file name="user.js" path="D:\BINAR\day-to-day\chapter-6\1_testing\latihan_1\testing\controllers\user.js">
+      <file name="user.js" path="C:\Users\Rizky MF\OneDrive\Desktop\CI-CD\ci-cd\controllers\user.js">
         <metrics statements="93" coveredstatements="81" conditionals="9" coveredconditionals="5" methods="3" coveredmethods="3"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -135,9 +135,9 @@
         <line num="93" count="1" type="stmt"/>
       </file>
     </package>
-    <package name="testing.db.models">
+    <package name="ci-cd.db.models">
       <metrics statements="68" coveredstatements="67" conditionals="9" coveredconditionals="7" methods="2" coveredmethods="2"/>
-      <file name="index.js" path="D:\BINAR\day-to-day\chapter-6\1_testing\latihan_1\testing\db\models\index.js">
+      <file name="index.js" path="C:\Users\Rizky MF\OneDrive\Desktop\CI-CD\ci-cd\db\models\index.js">
         <metrics statements="43" coveredstatements="42" conditionals="7" coveredconditionals="5" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -183,7 +183,7 @@
         <line num="42" count="1" type="stmt"/>
         <line num="43" count="1" type="stmt"/>
       </file>
-      <file name="user.js" path="D:\BINAR\day-to-day\chapter-6\1_testing\latihan_1\testing\db\models\user.js">
+      <file name="user.js" path="C:\Users\Rizky MF\OneDrive\Desktop\CI-CD\ci-cd\db\models\user.js">
         <metrics statements="25" coveredstatements="25" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -212,9 +212,9 @@
         <line num="25" count="1" type="stmt"/>
       </file>
     </package>
-    <package name="testing.external">
+    <package name="ci-cd.external">
       <metrics statements="32" coveredstatements="32" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="database.js" path="D:\BINAR\day-to-day\chapter-6\1_testing\latihan_1\testing\external\database.js">
+      <file name="database.js" path="C:\Users\Rizky MF\OneDrive\Desktop\CI-CD\ci-cd\external\database.js">
         <metrics statements="32" coveredstatements="32" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -250,9 +250,9 @@
         <line num="32" count="1" type="stmt"/>
       </file>
     </package>
-    <package name="testing.routes">
+    <package name="ci-cd.routes">
       <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="index.js" path="D:\BINAR\day-to-day\chapter-6\1_testing\latihan_1\testing\routes\index.js">
+      <file name="index.js" path="C:\Users\Rizky MF\OneDrive\Desktop\CI-CD\ci-cd\routes\index.js">
         <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -267,9 +267,9 @@
         <line num="11" count="1" type="stmt"/>
       </file>
     </package>
-    <package name="testing.utils">
+    <package name="ci-cd.utils">
       <metrics statements="35" coveredstatements="33" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2"/>
-      <file name="middlewares.js" path="D:\BINAR\day-to-day\chapter-6\1_testing\latihan_1\testing\utils\middlewares.js">
+      <file name="middlewares.js" path="C:\Users\Rizky MF\OneDrive\Desktop\CI-CD\ci-cd\utils\middlewares.js">
         <metrics statements="28" coveredstatements="26" conditionals="3" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -300,7 +300,7 @@
         <line num="27" count="2" type="stmt"/>
         <line num="28" count="1" type="stmt"/>
       </file>
-      <file name="truncate.js" path="D:\BINAR\day-to-day\chapter-6\1_testing\latihan_1\testing\utils\truncate.js">
+      <file name="truncate.js" path="C:\Users\Rizky MF\OneDrive\Desktop\CI-CD\ci-cd\utils\truncate.js">
         <metrics statements="7" coveredstatements="7" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
