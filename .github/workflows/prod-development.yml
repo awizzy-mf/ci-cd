@@ -1,4 +1,4 @@
-name: Deploy to Railway Production Env
+name: Deploy to Railway Prod Env
 
 on:
   push:
