@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1684505219915" clover="3.2.0">
-  <project timestamp="1684505219915" name="All files">
+<coverage generated="1684556032241" clover="3.2.0">
+  <project timestamp="1684556032241" name="All files">
     <metrics statements="312" coveredstatements="278" conditionals="22" coveredconditionals="15" methods="7" coveredmethods="7" elements="341" coveredelements="300" complexity="0" loc="312" ncloc="312" packages="6" files="8" classes="8"/>
     <package name="ci-cd">
       <metrics statements="51" coveredstatements="45" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="app.js" path="C:\Users\Rizky MF\OneDrive\Desktop\CI-CD\ci-cd\app.js">
+      <file name="app.js" path="C:\Users\ASUS\Desktop\binar_academy\ci-cd\app.js">
         <metrics statements="51" coveredstatements="45" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -61,7 +61,7 @@
     </package>
     <package name="ci-cd.controllers">
       <metrics statements="93" coveredstatements="81" conditionals="9" coveredconditionals="5" methods="3" coveredmethods="3"/>
-      <file name="user.js" path="C:\Users\Rizky MF\OneDrive\Desktop\CI-CD\ci-cd\controllers\user.js">
+      <file name="user.js" path="C:\Users\ASUS\Desktop\binar_academy\ci-cd\controllers\user.js">
         <metrics statements="93" coveredstatements="81" conditionals="9" coveredconditionals="5" methods="3" coveredmethods="3"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -160,7 +160,7 @@
     </package>
     <package name="ci-cd.db.models">
       <metrics statements="68" coveredstatements="67" conditionals="9" coveredconditionals="7" methods="2" coveredmethods="2"/>
-      <file name="index.js" path="C:\Users\Rizky MF\OneDrive\Desktop\CI-CD\ci-cd\db\models\index.js">
+      <file name="index.js" path="C:\Users\ASUS\Desktop\binar_academy\ci-cd\db\models\index.js">
         <metrics statements="43" coveredstatements="42" conditionals="7" coveredconditionals="5" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -206,7 +206,7 @@
         <line num="42" count="1" type="stmt"/>
         <line num="43" count="1" type="stmt"/>
       </file>
-      <file name="user.js" path="C:\Users\Rizky MF\OneDrive\Desktop\CI-CD\ci-cd\db\models\user.js">
+      <file name="user.js" path="C:\Users\ASUS\Desktop\binar_academy\ci-cd\db\models\user.js">
         <metrics statements="25" coveredstatements="25" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -237,7 +237,7 @@
     </package>
     <package name="ci-cd.external">
       <metrics statements="36" coveredstatements="36" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="database.js" path="C:\Users\Rizky MF\OneDrive\Desktop\CI-CD\ci-cd\external\database.js">
+      <file name="database.js" path="C:\Users\ASUS\Desktop\binar_academy\ci-cd\external\database.js">
         <metrics statements="36" coveredstatements="36" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -279,7 +279,7 @@
     </package>
     <package name="ci-cd.routes">
       <metrics statements="29" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="index.js" path="C:\Users\Rizky MF\OneDrive\Desktop\CI-CD\ci-cd\routes\index.js">
+      <file name="index.js" path="C:\Users\ASUS\Desktop\binar_academy\ci-cd\routes\index.js">
         <metrics statements="29" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -314,7 +314,7 @@
     </package>
     <package name="ci-cd.utils">
       <metrics statements="35" coveredstatements="33" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2"/>
-      <file name="middlewares.js" path="C:\Users\Rizky MF\OneDrive\Desktop\CI-CD\ci-cd\utils\middlewares.js">
+      <file name="middlewares.js" path="C:\Users\ASUS\Desktop\binar_academy\ci-cd\utils\middlewares.js">
         <metrics statements="28" coveredstatements="26" conditionals="3" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -345,7 +345,7 @@
         <line num="27" count="2" type="stmt"/>
         <line num="28" count="1" type="stmt"/>
       </file>
-      <file name="truncate.js" path="C:\Users\Rizky MF\OneDrive\Desktop\CI-CD\ci-cd\utils\truncate.js">
+      <file name="truncate.js" path="C:\Users\ASUS\Desktop\binar_academy\ci-cd\utils\truncate.js">
         <metrics statements="7" coveredstatements="7" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
