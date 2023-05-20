@@ -2,7 +2,7 @@ name: Deploy to Railway Dev Env
 
 on:
   push:
-    brances: [develop]
+    branches: [develop]
 
 jobs:
   ci:

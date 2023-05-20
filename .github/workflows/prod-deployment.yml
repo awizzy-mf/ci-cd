@@ -2,7 +2,7 @@ name: Deploy to Railway Prod Env
 
 on:
   push:
-    brances: [main]
+    branches: [main]
 
 jobs:
   ci:
